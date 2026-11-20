@@ -1,0 +1,8 @@
+Validación completada el 2026-11-19 en xv6-riscv/QEMU con 3 CPUs.
+
+- cowtest: PASÓ (11 de 11).
+- MiniDB: PASÓ; consultas K=1,2,3,8, snapshots 2000 y 0, y mapa revisados contra los valores esperados.
+- pgtbltest: PASÓ (11 de 11).
+- usertests -q: PASÓ (ALL TESTS PASSED).
+
+Las salidas completas están en cowtest.txt, minidb.txt, pgtbltest.txt y usertests.txt.
